@@ -1,0 +1,4 @@
+---
+applications:
+- name: myFirstServices
+  command: node app/server.js
